@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce58c6a446282234f9f6e4d9599b24da, type: 3}
+  m_Name: Madera
+  m_EditorClassIdentifier: 
+  type: 0
+  actionType: 5
+  range: {x: 5, y: 4}
+  hasUpgrade: 1
+  hasUses: 0
+  description: Madera
+  stackable: 1
+  id: 3
+  image: {fileID: 21300000, guid: 38ec4b5f7b597ac469f2ecc131a4c8c5, type: 3}
+  nameID: Madera
+  <UseCustomCollision>k__BackingField: 0
+  <CollisionSpace>k__BackingField:
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  <Tile>k__BackingField: {fileID: 0}
+  <tileOffset>k__BackingField: {x: 0, y: 0, z: 0}
+  <gameObject>k__BackingField: {fileID: 0}
+  <objMenu>k__BackingField: {fileID: 0}
+  <collision>k__BackingField: {fileID: 0}
+  upgrades: []
+  Son: {fileID: 0}

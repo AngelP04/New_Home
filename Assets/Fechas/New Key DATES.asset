@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 296b6300bf5276a4782ebfe969982641, type: 3}
+  m_Name: New Key DATES
+  m_EditorClassIdentifier: 
+  KeyDate:
+    season: 0
+    date: 10
+    year: 0
+    month: 3
+    hours: 0
+    minutes: 0
+  yearly: 1
+  monthly: 0
+  image: {fileID: 21300000, guid: 07971469449eb86459e69b7e2f7d4c46, type: 3}
+  description: "Cumplea\xF1os de Martina"

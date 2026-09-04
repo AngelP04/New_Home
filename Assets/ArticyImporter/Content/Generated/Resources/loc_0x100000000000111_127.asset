@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1080164415, guid: df2ec02f61e861546b9427c26ccacb8d, type: 3}
+  m_Name: loc_0x100000000000111_127
+  m_EditorClassIdentifier: 
+  mLocalizedStringsKeys:
+  - FFr_A29E5373.DisplayName
+  - Dlg_34454D41.DisplayName
+  - Dlg_34454D41.Text
+  - Dlg_ABA74616.DisplayName
+  - Dlg_2AF698B2.DisplayName
+  - Dlg_B2137281.DisplayName
+  - Dlg_7FED9958.DisplayName
+  - DFr_C5AA3C87.Text
+  - DFr_7977CC46.MenuText
+  - DFr_7977CC46.Text
+  - DFr_C831B347.Text
+  - DFr_862B5E6F.MenuText
+  - DFr_862B5E6F.Text
+  - DFr_6339DA9E.MenuText
+  - DFr_6339DA9E.Text
+  - DFr_69E634E2.Text
+  - DFr_3BF72CD2.MenuText
+  - DFr_3BF72CD2.Text
+  - DFr_DCC01605.MenuText
+  - DFr_DCC01605.Text
+  - DFr_EBDB7B75.MenuText
+  - DFr_EBDB7B75.Text
+  - DFr_1248A7F3.Text
+  - DFr_E52A5887.Text
+  - DFr_CB674753.Text
+  - DFr_220EB047.Text
+  - DFr_13D1A8DE.Text
+  - DFr_AD058EAE.Text
+  - Ntt_9A6BCB3F.DisplayName
+  - Ntt_9A6BCB3F.Text
+  - Ntt_9A6BCB3F.DefaultBasicCharacterFeature.BornIn
+  - Ntt_9A6BCB3F.DefaultBasicCharacterFeature.Occupation
+  - Ntt_9A6BCB3F.DefaultBasicCharacterFeature.Personality
+  - Biologo.DisplayName
+  - Biologo.Text
+  - Biologo.DefaultBasicCharacterFeature.BornIn
+  - Biologo.DefaultBasicCharacterFeature.Occupation
+  - Biologo.DefaultBasicCharacterFeature.Personality
+  - Ntt_43F6CA77.DisplayName
+  - Ntt_43F6CA77.Text
+  - Ntt_43F6CA77.DefaultBasicCharacterFeature.BornIn
+  - Ntt_43F6CA77.DefaultBasicCharacterFeature.Occupation
+  - Ntt_43F6CA77.DefaultBasicCharacterFeature.Personality
+  - Ntt_0DDDD9B6.DisplayName
+  - Ntt_0DDDD9B6.DefaultBasicCharacterFeature.Occupation
+  - Ntt_0DDDD9B6.DefaultBasicCharacterFeature.Personality
+  - Ntt_70CE2D41.DisplayName
+  mLocalizedStringsValues:
+  - Test
+  - Lineal Test
+  - HOLA
+  - Branch Test
+  - Variables test
+  - "Cumplea\xF1os"
+  - Cinematic Test
+  - Hola
+  - 
+  - Bienvenido
+  - Hola, como estas?
+  - Bien
+  - Bien, gracias
+  - Mal
+  - No muy bien
+  - Quieres hablar?
+  - Si
+  - Si
+  - No
+  - No
+  - Quizas mas tarde
+  - Quizas mas tarde
+  - De acuerdo
+  - Hablemos
+  - Bienvenido
+  - Ya te dije que bienvenido
+  - "Hoy es mi cumplea\xF1os"
+  - Esto es una cinematica
+  - Cazador
+  - "Veterano en combate contra los Aaaahhh, una especie insectoide. Su raza tiende
+    a ser muy social, han tenido encuentro con otras raza alien\xEDgena gatuna con
+    la que llevan una relaci\xF3n altamente competitiva"
+  - Artemis 3 del sector 9u99135
+  - Cazador
+  - Es un ser canino que tiene confianza en sus habilidades como cazador, y siempre
+    le gusta un buen cumplido
+  - Biologo
+  - "Pacifista proveniente de un planeta tribal con cultura centrada en la fuerza,
+    de ah\xED que se una a la misi\xF3n al plantearse como una alternativa tranquila"
+  - Ygdrassil del sector 64RD3N
+  - Biologo
+  - "Es un se\xF1or alegre y amable, amante de la carne"
+  - Cientifico
+  - "Hace referencia a que su raza exista por el cosmos, pero siempre como espectaores,
+    nunca vistos y nunca interactuando, cansado de esto es el primero de su raza
+    en romper la tradici\xF3n, de ah\xED que sea tan curioso y le importe tan poco
+    si sus experimentos fallan y explotan"
+  - Desconocido
+  - Cientifico
+  - Es algo curioso, y tienden a haber explosiones cerca de el
+  - Constructor
+  - Constructor
+  - Distraido e inocente, es simpatico e intenta cuidar al granjero lo mas que puede
+  - Jugador
+  mLocalizedAudioAssetsKeys: []
+  mLocalizedAudioAssetsValues: 

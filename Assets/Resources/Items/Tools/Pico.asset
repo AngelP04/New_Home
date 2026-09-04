@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce58c6a446282234f9f6e4d9599b24da, type: 3}
+  m_Name: Pico
+  m_EditorClassIdentifier: 
+  type: 1
+  actionType: 1
+  range: {x: 5, y: 4}
+  hasUpgrade: 1
+  hasUses: 1
+  description: "Herramienta muy \xF9til en\nlas minas, te sirve para \nconseguir
+    minerales"
+  stackable: 1
+  id: 4
+  image: {fileID: 21300000, guid: c87bee1754eb60d42b8a2ba6c9ea59f8, type: 3}
+  nameID: 
+  <UseCustomCollision>k__BackingField: 0
+  <CollisionSpace>k__BackingField:
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  <Tile>k__BackingField: {fileID: 11400000, guid: ea50988cff1b7b843b98ac181fc2bd5a, type: 2}
+  <tileOffset>k__BackingField: {x: 0, y: 0, z: 0}
+  <gameObject>k__BackingField: {fileID: 4725228123855549494, guid: d752a003d9d23f148aa8d4715c68cf91, type: 3}
+  <objMenu>k__BackingField: {fileID: 0}
+  <collision>k__BackingField: {fileID: 0}
+  upgrades:
+  - {fileID: 11400000, guid: 4a9768734bdc17741a36af1883dc3e2f, type: 2}
+  Son: {fileID: 0}

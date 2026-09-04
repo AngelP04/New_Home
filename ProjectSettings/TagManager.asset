@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Mineral
+  - Temp
+  - Interactable
+  - Background
+  - Inventory
+  - MenuButtons
+  - Planta
+  - Object
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Weather
+  - Water
+  - UI
+  - Arrow
+  - Minerales
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Ground
+    uniqueID: 1478650209
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Estructuras
+    uniqueID: 3768705461
+    locked: 0
+  - name: UI
+    uniqueID: 3266336019
+    locked: 0
+  - name: Minerales
+    uniqueID: 26695873
+    locked: 0
